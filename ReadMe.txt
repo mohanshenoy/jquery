@@ -13,3 +13,5 @@ added some purpose
 added deployment section
 
 # how to contrinute
+added contribute section
+added new contribute section
