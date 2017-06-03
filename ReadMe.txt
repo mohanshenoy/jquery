@@ -10,6 +10,6 @@ added intro text
 added some purpose
 
 # deployment
-
+added deployment section
 
 # how to contrinute
