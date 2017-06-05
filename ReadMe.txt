@@ -1,4 +1,4 @@
-# starter
+﻿# starter
 
 some text hereeeeeeeeeeeeeeeeeeeee
 
@@ -11,7 +11,7 @@ added intro text
 added some purpose
 
 # deployment
-added deployment section , updated when i am in master branch
+added deployment section , updated this line when i am in feature/fb4
 
 # how to contrinute
 added contribute section
@@ -22,3 +22,5 @@ added new contribute section
 # created feature/fb2 and added this line ! , updated this line again
 
 # created feature/fb3 and added this line ! 
+
+# created feature/fb4 and added this line ! 
