@@ -11,7 +11,7 @@ added intro text
 added some purpose
 
 # deployment
-added deployment section
+added deployment section , updated when i am in master branch
 
 # how to contrinute
 added contribute section
